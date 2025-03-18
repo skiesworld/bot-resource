@@ -1,0 +1,92 @@
+{
+    "社区": {
+        "title": "MGC | 我的世界图形社区",
+        "text_line1": "国内新兴光影材质交流社区，集萃国内众多优秀开发者与深度爱好者。",
+        "text_line2": "欢迎前往社区一同探索MC图形学的无限可能！",
+        "url_text1": "社区主页",
+        "url1": "https://docs.minegraph.cn/home",
+        "url_text2": "社区入门",
+        "url2": "https://docs.minegraph.cn/community"
+    },
+    "安装": {
+        "title": "安装教程",
+        "text_line1": "该图文教程内含重要的基础概念科普与实操教程，对新手友好度高；",
+        "text_line2": "教程记录有一些安装的常见意外情况，能最大限度减少萌新的问题。",
+        "url_text1": "【MGC Docs - 安装光影包】",
+        "url1": "https://docs.minegraph.cn/jeinstallgame",
+        "url_text2": "【MGC Docs - 安装资源包】",
+        "url2": "https://docs.minegraph.cn/jeinstallrp"
+    },
+    "光影": {
+        "title": "光影列表",
+        "text_line1": "该列表记录目前已进驻社区的国人开发者作品；",
+        "text_line2": "表格记录了作者信息，开发状态及获取途径等信息。",
+        "url_text1": "Java 版光影包",
+        "url1": "https://minegraph.cn/shaderpacks",
+        "url_text2": "Java 版光影预设",
+        "url2": "https://minegraph.cn/profiles"
+    },
+    "材质": {
+        "title": "材质列表",
+        "text_line1": "该列表记录目前已进驻社区的国人开发者作品；",
+        "text_line2": "表格记录了作者信息，开发状态及获取途径等信息。",
+        "url_text1": "Java 版材质包",
+        "url1": "https://minegraph.cn/resourcepacks",
+        "url_text2": "Java 版光影包",
+        "url2": "https://minegraph.cn/shaderpacks"
+    },
+    "科普": {
+        "title": "知识库",
+        "text_line1": "本分区对社区内常见的 Minecraft 图形学知识进行了总结，如果对图形学概念不了解或模糊，请阅读本文；",
+        "text_line2": "网页侧边栏中还有更多科普文章，可跳转浏览。",
+        "url_text1": "关于知识库",
+        "url1": "https://docs.minegraph.cn/library",
+        "url_text2": "术语表",
+        "url2": "https://docs.minegraph.cn/terms"
+    },
+    "光追": {
+        "title": "光线追踪科普",
+        "text_line1": "此部分文档可提升大众对光线追踪该技术的理解，同时记录了多种反例并逐一纠正。",
+        "text_line2": "浏览此文档，可以避免被光线追踪这个噱头迷惑认知、蒙蔽双眼， 在充斥着错误说法的角落里仍能保持清醒",
+        "url_text1": "光线追踪技术科普",
+        "url1": "https://docs.minegraph.cn/shadertech",
+        "url_text2": "光线追踪常见误区",
+        "url2": "https://docs.minegraph.cn/raytracingcorrection"
+    },
+    "问答": {
+        "title": "基础问答",
+        "text_line1": "问答集锦包括许多萌新常见的疑惑解答，如光影与资源包对硬件配置的要求；",
+        "text_line2": "下方文档可解决此类问题。",
+        "url_text1": "光影包使用问题",
+        "url1": "https://docs.minegraph.cn/je-shaderpack",
+        "url_text2": "资源包使用问题",
+        "url2": "https://docs.minegraph.cn/je-resourcepack"
+    },
+    "bug": {
+        "title": "疑难解答",
+        "text_line1": "如果你的光影或资源包在某些整合包中由于硬件不支持、设置不当或模组冲突导致出现了 bug ，",
+        "text_line2": "依靠下方链接可帮助你快速定位问题并协助你解决问题。",
+        "url_text1": "通用问题",
+        "url1": "https://docs.minegraph.cn/troubleshootcommon",
+        "url_text2": "光影与模组兼容",
+        "url2": "https://docs.minegraph.cn/modscompatibility"
+    },
+    "开发": {
+        "title": "创作者指南",
+        "text_line1": "本文档是为创作者和想成为创作者的玩家提供的帮助指南。",
+        "text_line2": "本文档未列出的问题，请前往频道咨询。",
+        "url_text1": "关于创作者指南",
+        "url1": "https://docs.minegraph.cn/developer",
+        "url_text2": "开发相关资料整理",
+        "url2": "https://docs.minegraph.cn/developtips"
+    },
+    "关于": {
+        "title": "关于 MGCD",
+        "text_line1": "MGCD（MGC Docs）是一群 Minecraft 光影、纹理爱好者共同编写的文档。",
+        "text_line2": "我们致力于科普图形知识、纠正误区，以及帮助萌新解决游戏内的许多问题。",
+        "url_text1": "文档首页",
+        "url1": "https://docs.minegraph.cn",
+        "url_text2": "关于本图书馆",
+        "url2": "https://docs.minegraph.cn/about"
+    }
+}
